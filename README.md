@@ -2,7 +2,7 @@
 
 To run this file, the data needs to be in the format of 
 
-timestamp            datetime64[ns]
+timestamp            datetime64[ns]\n
 is_fix                         bool
 gaze_smooth_x               float64
 gaze_smooth_y               float64
